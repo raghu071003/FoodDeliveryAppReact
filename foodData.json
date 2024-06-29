@@ -1,0 +1,96 @@
+[
+    {
+        "CategoryName": "Biryani",
+        "name": "65 Biryani",
+        "img": "https://shrifoods4u.com/wp-content/uploads/2022/08/Chicken-65-Biryani-Boneless.jpg",
+        "options": [
+            {
+                "With drink": "170",
+                "Without drink" : "150" 
+            }
+        ],
+        "description":"Made in Hyderabadi style by one of the best chefs of Hyderabad. It has Boneless pieces of chicken with rich flavoured rice"
+    },
+    {
+        "CategoryName": "Biryani",
+        "name": "Fry Piece Biryani",
+        "img": "https://thumbs.dreamstime.com/b/chicken-fry-piece-biryani-hot-spicy-tender-layered-unique-flavored-dum-cooked-195564567.jpg",
+        "options": [
+            {
+                "With drink": "170",
+                "Without drink" : "150" 
+            }
+        ],
+        "description":"Made in Hyderabadi style by one of the best chefs of Hyderabad. It has pieces of chicken that are cooked in the home style with rich flavoured rice"
+    },
+    {
+        "CategoryName": "Biryani",
+        "name": "Dum Biryani",
+        "img": "https://recipes.timesofindia.com/thumb/54308405.cms?imgsize=510571&width=800&height=800",
+        "options": [
+            {
+                "With drink": "170",
+                "Without drink" : "150" 
+            }
+        ],
+        "description":"Made in Hyderabadi style by one of the best chefs of Hyderabad. "
+    },
+    {
+        "CategoryName": "Biryani",
+        "name": "Spl Biryani",
+        "img": "https://img-global.cpcdn.com/recipes/f2b31a872c30591a/680x482cq70/hyderabadi-boneless-chicken-65-biryani-recipe-main-photo.jpg",
+        "options": [
+            {
+                "With drink": "170",
+                "Without drink" : "150" 
+            }
+        ],
+        "description":"Made in Hyderabadi style by one of the best chefs of Hyderabad. It has Boneless pieces of chicken and gravy with rich flavoured rice"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Chilli Chicken",
+        "img": "https://vismaifood.com/storage/app/uploads/public/65b/760/990/thumb__1200_0_0_0_auto.jpg",
+        "options": [
+            {
+                "With drink": "170",
+                "Without drink" : "150" 
+            }
+        ],
+        "description":"Made in Hyderabadi style by one of the best chefs of Hyderabad. It has Boneless pieces of chicken and gravy with rich flavoured rice"
+    },
+    {
+        "CategoryName": "Combo",
+        "name": "2 65 Biryani + 10 rotis + Chicken Masala",
+        "img": "https://img-global.cpcdn.com/recipes/f2b31a872c30591a/680x482cq70/hyderabadi-boneless-chicken-65-biryani-recipe-main-photo.jpg",
+        "options": [
+            {
+                "With drinks": "500"
+            }
+        ],
+        "description":"Made in Hyderabadi style by one of the best chefs of Hyderabad. It has Boneless pieces of chicken and gravy with rich flavoured rice"
+    },{
+
+        "CategoryName": "Combo",
+        "name": "2 65 Biryani + 2 fry piece Biryani ",
+        "img": "https://img-global.cpcdn.com/recipes/f2b31a872c30591a/680x482cq70/hyderabadi-boneless-chicken-65-biryani-recipe-main-photo.jpg",
+        "options": [
+            {
+                "With drinks": "250"
+            }
+        ],
+        "description":"Made in Hyderabadi style by one of the best chefs of Hyderabad. It has Boneless pieces of chicken and gravy with rich flavoured rice"
+    },
+    {
+        "CategoryName": "Roti",
+        "name": "10 rotis + Chicken Masala",
+        "img": "https://www.missionfoods.com/wp-content/uploads/2022/06/chicken-tikka-masala-roti.jpg",
+        "options": [
+            {
+                "With drinks": "250"
+            }
+        ],
+        "description":"Made in Hyderabadi style by one of the best chefs of Hyderabad. It has Boneless pieces of chicken and gravy with rich flavoured rice"
+    }
+    
+]
