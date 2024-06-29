@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 # FoodDeliveryAppUSingReact
-
-
 Under Development
 =======
 # FoodDeliveryAppReact
